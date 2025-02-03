@@ -29,7 +29,7 @@ chmod +x *
 ./patch
 ```
 
-## Paste Dan enter
+## Paste yang di DEVICE ID Dan enter
 
 ## Gass 
 ```
